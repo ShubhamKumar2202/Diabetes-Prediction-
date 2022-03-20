@@ -5,3 +5,6 @@ In this notebook, we will explore using Bayesian Logistic Regression in order to
 # Diabetes-Prediction-
 
 Predict whether or not the patient has diabetes. To accomplish this task, we will use a set of real-world data collected on females 21 years of age and over collected by a national health institution in the United States.
+
+# Diabetes Confusion Matrix GRAPH
+![Diabetes Confusion Matrix](https://user-images.githubusercontent.com/88205480/159169926-d0efe8fa-363e-48bd-9ca9-50572adb98ef.png)
