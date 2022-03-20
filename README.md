@@ -11,3 +11,6 @@ Predict whether or not the patient has diabetes. To accomplish this task, we wil
 
 # BMI vs Glucose for Test Data - 
 ![BMI vs Glucose for Test Data](https://user-images.githubusercontent.com/88205480/159170056-b7456396-f090-4383-abfc-8cd3f09614d3.png)
+
+# Posterior Probabilites and Test Data - Colormap
+![Posterior Probabilites and Test Data](https://user-images.githubusercontent.com/88205480/159170120-02c84860-da8f-4660-9892-3d2cef42c163.png)
