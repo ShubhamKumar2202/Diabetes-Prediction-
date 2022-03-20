@@ -17,4 +17,4 @@ Predict whether or not the patient has diabetes. To accomplish this task, we wil
 
 # CONCLUSION
 
-we explored whether it was possible to create a useful model using only two input features. While the model did outperform the naive baseline, it was not as performant as the model that used all eight of the features. We plotted the data points in two-dimensions and saw that this is not a linearly separable classification problem.
+Overall, this project provided a nice introduction to the Bayesian approach to linear modeling. While not applicable in all situations, in problems with limited data, Bayesian methods allow us to create an interpretable model with good performance while also demonstrating our uncertainty about the model. Making accurate predictions is useful by itself, but it is even more powerful when we can explain the predictions of our model and use the results to improve real-world outcomes.
