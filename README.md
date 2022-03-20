@@ -8,3 +8,6 @@ Predict whether or not the patient has diabetes. To accomplish this task, we wil
 
 # Diabetes Confusion Matrix -  Confusion Matrix
 ![Diabetes Confusion Matrix](https://user-images.githubusercontent.com/88205480/159169926-d0efe8fa-363e-48bd-9ca9-50572adb98ef.png)
+
+# BMI vs Glucose for Test Data - 
+![BMI vs Glucose for Test Data](https://user-images.githubusercontent.com/88205480/159170056-b7456396-f090-4383-abfc-8cd3f09614d3.png)
