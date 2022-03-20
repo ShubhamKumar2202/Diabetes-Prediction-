@@ -14,3 +14,7 @@ Predict whether or not the patient has diabetes. To accomplish this task, we wil
 
 # Posterior Probabilites and Test Data - Colormap
 ![Posterior Probabilites and Test Data](https://user-images.githubusercontent.com/88205480/159170120-02c84860-da8f-4660-9892-3d2cef42c163.png)
+
+# CONCLUSION
+
+we explored whether it was possible to create a useful model using only two input features. While the model did outperform the naive baseline, it was not as performant as the model that used all eight of the features. We plotted the data points in two-dimensions and saw that this is not a linearly separable classification problem.
